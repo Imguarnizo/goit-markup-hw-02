@@ -30,7 +30,7 @@ li {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1em;
+  line-height: 1.9em;
   color: var(--bluecolor-light);
 }
 
@@ -70,7 +70,7 @@ address {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 2em;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
 }
 
@@ -80,7 +80,7 @@ footer ul li a {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 2em;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
 }
 
@@ -97,7 +97,7 @@ footer ul li a {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 1em;
+  line-height: 3.7em;
   text-transform: uppercase;
   text-align: center;
   color: var(--whitecolor);
@@ -111,7 +111,7 @@ footer ul li a {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1em;
+  line-height: 1.8em;
   text-align: center;
   letter-spacing: 0.06em;
   color: var(--whitecolor);
@@ -157,7 +157,7 @@ footer ul li a {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 2em;
+  line-height: 2.6em;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -173,7 +173,7 @@ footer ul li a {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1em;
+  line-height: 2.6em;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -187,7 +187,7 @@ footer ul li a {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1em;
+  line-height: 1.1em;
   text-align: center;
   letter-spacing: 0.03em;
 }
@@ -197,7 +197,7 @@ footer ul li a {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1em;
+  line-height: 1.1em;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--colorgray-letter);
