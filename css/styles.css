@@ -9,7 +9,7 @@
 }
 
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: var(--colorblack-letter);
 }
 
@@ -30,12 +30,11 @@ li {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.9em;
+  line-height: 1.8em;
   color: var(--bluecolor-light);
 }
 
 .navbar-list-a {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -48,7 +47,6 @@ li {
 }
 
 .navbar-list-b {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -66,7 +64,6 @@ footer {
 
 address {
   color: var(--whitecolor);
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -76,12 +73,15 @@ address {
 
 footer ul li a {
   color: rgba(255, 255, 255, 0.6);
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.5em;
   letter-spacing: 0.03em;
+}
+
+footer ul li a:hover {
+  color: var(--bluecolor-light);
 }
 
 /* Diseño index.html */
@@ -93,11 +93,10 @@ footer ul li a {
 }
 
 .banner-text {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 3.7em;
+  line-height: 1.36em;
   text-transform: uppercase;
   text-align: center;
   color: var(--whitecolor);
@@ -107,7 +106,7 @@ footer ul li a {
 .banner-btn {
   width: 250px;
   height: 50px;
-  font-family: "Roboto";
+  cursor: pointer;
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -127,7 +126,6 @@ footer ul li a {
 }
 
 .qualities-tittle {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -138,7 +136,6 @@ footer ul li a {
 }
 
 .qualities-description {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -153,7 +150,6 @@ footer ul li a {
 }
 
 .aboutus-tittle {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -169,7 +165,6 @@ footer ul li a {
 }
 
 .team-tittle {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -189,7 +184,6 @@ footer ul li a {
 }
 
 .name-teamate {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -199,7 +193,6 @@ footer ul li a {
 }
 
 .team-career {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -214,7 +207,6 @@ footer ul li a {
 .button-portafolio {
   background-color: var(--colorgray-main);
   color: var(--colorblack-letter);
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -224,6 +216,7 @@ footer ul li a {
   border-radius: 4px;
   border-style: none;
   border-color: var(--colorgray-main);
+  cursor: pointer;
 }
 
 .button-portafolio:hover {
@@ -238,7 +231,7 @@ footer ul li a {
 }
 
 .product-name {
-  font-family: "Roboto";
+  color: var(--colorblack-letter);
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -247,7 +240,6 @@ footer ul li a {
 }
 
 .article-kind {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
